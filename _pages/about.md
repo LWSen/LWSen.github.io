@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,4 +25,9 @@ Email: lws22@mails.tsinghua.edu.cn
 1. Zeqi Lai, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, **Weisen Liu**, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", NSDI 2023.
 1. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications", INFOCOM 2022.
 1. **Weisen Liu**, Qian Wu, Zeqi Lai, Jun Liu, Yuanjie Li, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks", GLOBECOM 2022.
+
+# <span id="education">Education</span>
+- 2022/09-now, PhD Candidate, Tsinghua University, Beijing
+- 2019/09-2022/06, Master, Tsinghua University, Beijing
+- 2015/09-2019/06, Undergraduate, University of Science and Technology of China, Hefei
 
