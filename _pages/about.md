@@ -14,7 +14,7 @@ My works are published at conferences or journals such as IEEE INFOCOM, IEEE TMC
 :envelope: Contact: lws22@mails.tsinghua.edu.cn
 
 
-# <span id="publications" style="font-size: 24px">:book: Publications</span>
+# <span id="publications" style="font-size: 48px">:book: Publications</span>
 
 1. Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Yuxuan Weng, **Weisen Liu**, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", INFOCOM 2025 (to appear).
 1. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", INFOCOM 2024.
@@ -26,7 +26,7 @@ My works are published at conferences or journals such as IEEE INFOCOM, IEEE TMC
 1. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications", INFOCOM 2022.
 1. **Weisen Liu**, Qian Wu, Zeqi Lai, Jun Liu, Yuanjie Li, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks", GLOBECOM 2022.
 
-# <span id="education" style="font-size: 24px">:mortar_board: Education</span>
+# <span id="education" style="font-size: 48px">:mortar_board: Education</span>
 - 2022/09-now, PhD Candidate, Tsinghua University, Beijing
 - 2019/09-2022/06, Master, Tsinghua University, Beijing
 - 2015/09-2019/06, Undergraduate, University of Science and Technology of China, Hefei
