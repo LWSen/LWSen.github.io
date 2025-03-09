@@ -11,10 +11,10 @@ I am currently working towards my PhD degree at the Institute of Network Science
 I received my MS degree from Tsinghua University (Supervisor: Assoc. Prof. Qian Wu) in 2022 and BE degree from University of Science and Technology of China (USTC) in 2019.
 My works are published at conferences or journals such as IEEE INFOCOM, IEEE TMC, IEEE ICNP, USENIX NSDI, and ACM HotNets.
 
-:mailbox: Contact: lws22@mails.tsinghua.edu.cn
+:envelope: Contact: lws22@mails.tsinghua.edu.cn
 
 
-# :book:<span id="publications">Publications</span>
+# <span id="publications" style="font-size: 24px">:book: Publications</span>
 
 1. Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Yuxuan Weng, **Weisen Liu**, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", INFOCOM 2025 (to appear).
 1. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", INFOCOM 2024.
@@ -26,7 +26,7 @@ My works are published at conferences or journals such as IEEE INFOCOM, IEEE TMC
 1. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SPACERTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications", INFOCOM 2022.
 1. **Weisen Liu**, Qian Wu, Zeqi Lai, Jun Liu, Yuanjie Li, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks", GLOBECOM 2022.
 
-# :mortar_board:<span id="education">Education</span>
+# <span id="education" style="font-size: 24px">:mortar_board: Education</span>
 - 2022/09-now, PhD Candidate, Tsinghua University, Beijing
 - 2019/09-2022/06, Master, Tsinghua University, Beijing
 - 2015/09-2019/06, Undergraduate, University of Science and Technology of China, Hefei
