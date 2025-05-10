@@ -16,6 +16,7 @@ My works are published at conferences or journals such as IEEE INFOCOM, IEEE TMC
 
 # <span id="publications"><img class="emoji" title=":book:" alt=":book:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" height="40" width="40"> Publications</span>
 
+1. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Yuxuan Weng, Wei Liu, Qi Zhang, Jihao Li, Yuanjie Li, Jun Liu, "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks", S&P 2025 (CCF A, TH-CPL A, to appear).
 1. Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Yuxuan Weng, **Weisen Liu**, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", INFOCOM 2025 (CCF A, TH-CPL A, to appear).
 1. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", INFOCOM 2024 (CCF A, TH-CPL A).
 1. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications", TMC 2024 (CCF A, TH-CPL A, first student author).
