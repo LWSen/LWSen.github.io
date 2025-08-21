@@ -16,17 +16,17 @@ My works are published at conferences or journals such as IEEE S&P, IEEE INFOCOM
 
 # <span id="publications"><img class="emoji" title=":book:" alt=":book:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" height="40" width="40"> Publications</span>
 
-1. Jiamin Cao, Shangfeng Shi, Jiaqi Gao, **Weisen Liu**, Yifan Yang, Yichi Xu, Zhilong Zheng, Yu Guan, Kun Qian, Ying Liu, Mingwei Xu, Tianshu Wang, Ning Wang, Jianbo Dong, Binzhang Fu, Dennis Cai, Ennan Zhai, "SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling", SIGCOMM 2025 (CCF A, TH-CPL A).
-2. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Yuxuan Weng, Wei Liu, Qi Zhang, Jihao Li, Yuanjie Li, Jun Liu, "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks", S&P 2025 (CCF A, TH-CPL A).
-3. Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Yuxuan Weng, **Weisen Liu**, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks", INFOCOM 2025 (CCF A, TH-CPL A).
-4. **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks", INFOCOM 2024 (CCF A, TH-CPL A).
-5. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications", TMC 2024 (CCF A, TH-CPL A, first student author).
-6. Jihao Li, Hewu Li, Zeqi Lai, Qian Wu, **Weisen Liu**, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SkyCastle: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services", INFOCOM 2024 (CCF A, TH-CPL A).
-7. Zeqi Lai, Zonglun Li, Qian Wu, Hewu Li, **Weisen Liu**, Yijie Liu, Xin Xie, Yuanjie Li, Jun Liu, "Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control", HotNets 2024 (CCF C, TH-CPL B).
-8. Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Jihao Li, **Weisen Liu**, Qi Zhang, Jun Liu, Yuanjie Li, "STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in LEO Satellite Networks", ICNP 2024 (CCF B, TH-CPL A).
-9. Zeqi Lai, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, **Weisen Liu**, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks", NSDI 2023 (CCF A, TH-CPL A).
-10. Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications", INFOCOM 2022 (CCF A, TH-CPL A, first student author).
-11. **Weisen Liu**, Qian Wu, Zeqi Lai, Hewu Li, Yuanjie Li, Jun Liu, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks", GLOBECOM 2022 (CCF C, TH-CPL B).
+1. [SIGCOMM 2025] Jiamin Cao, Shangfeng Shi, Jiaqi Gao, **Weisen Liu**, Yifan Yang, Yichi Xu, Zhilong Zheng, Yu Guan, Kun Qian, Ying Liu, Mingwei Xu, Tianshu Wang, Ning Wang, Jianbo Dong, Binzhang Fu, Dennis Cai, Ennan Zhai, "SyCCL: Exploiting Symmetry for Efficient Collective Communication Scheduling". (CCF A, TH-CPL A)
+2. [S&P 2025] **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Yuxuan Weng, Wei Liu, Qi Zhang, Jihao Li, Yuanjie Li, Jun Liu, "Mind the Location Leakage in LEO Direct-to-Cell Satellite Networks". (CCF A, TH-CPL A)
+3. [TMC 2025] Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Yibo Wang, Yuanjie Li, Jun Liu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Wide-Area Real-Time Communications". (CCF A, TH-CPL A, first student author)
+4. [INFOCOM 2025] Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Yuxuan Weng, **Weisen Liu**, Jihao Li, Jun Liu, Yuanjie Li, "NovaPlan: An Efficient Plan of Renting Ground Stations for Emerging LEO Satellite Networks". (CCF A, TH-CPL A)
+5. [INFOCOM 2024] **Weisen Liu**, Zeqi Lai, Qian Wu, Hewu Li, Qi Zhang, Zonglun Li, Yuanjie Li, Jun Liu, "In-Orbit Processing or Not? Sunlight-Aware Task Scheduling for Energy-Efficient Space Edge Computing Networks". (CCF A, TH-CPL A)
+6. [INFOCOM 2024] Jihao Li, Hewu Li, Zeqi Lai, Qian Wu, **Weisen Liu**, Xiaomo Wang, Yuanjie Li, Jun Liu, Qi Zhang, "SkyCastle: Taming LEO Mobility to Facilitate Seamless and Low-latency Satellite Internet Services". (CCF A, TH-CPL A)
+7. [HotNets 2024] Zeqi Lai, Zonglun Li, Qian Wu, Hewu Li, **Weisen Liu**, Yijie Liu, Xin Xie, Yuanjie Li, Jun Liu, "Mind the Misleading Effects of LEO Mobility on End-to-End Congestion Control". (CCF C, TH-CPL B)
+8. [ICNP 2024] Chenwei Gu, Qian Wu, Zeqi Lai, Hewu Li, Jihao Li, **Weisen Liu**, Qi Zhang, Jun Liu, Yuanjie Li, "STARVERI: Efficient and Accurate Verification for Risk-Avoidance Routing in LEO Satellite Networks" (CCF B, TH-CPL A)
+9. [NSDI 2023] Zeqi Lai, Hewu Li, Yangtao Deng, Qian Wu, Jun Liu, Yuanjie Li, Jihao Li, Lixin Liu, **Weisen Liu**, Jianping Wu, "StarryNet: Empowering Researchers to Evaluate Futuristic Integrated Space and Terrestrial Networks". (CCF A, TH-CPL A)
+10. [INFOCOM 2022] Zeqi Lai, **Weisen Liu**, Qian Wu, Hewu Li, Jingxi Xu, Jianping Wu, "SpaceRTC: Unleashing the Low-latency Potential of Mega-constellations for Real-Time Communications". (CCF A, TH-CPL A, first student author)
+11. [GLOBECOM 2022] **Weisen Liu**, Qian Wu, Zeqi Lai, Hewu Li, Yuanjie Li, Jun Liu, "Enabling Ubiquitous and Efficient Data Delivery by LEO Satellites and Ground Station Networks". (CCF C, TH-CPL B)
 
 # <span id="education"><img class="emoji" title=":mortar_board:" alt=":mortar_board:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" height="40" width="40"> Education</span>
 - 2022/09-now, PhD Candidate, Tsinghua University, Beijing
